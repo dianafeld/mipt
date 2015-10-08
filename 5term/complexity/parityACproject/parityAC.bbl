@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{Arora}
+Sanjeev Arora and Boaz Barak.
+\newblock {\em Computational Complexity: A Modern Approach}.
+\newblock Cambridge University Press, New York, NY, USA, 1st edition, 2009.
+
+\bibitem{beame}
+Paul Beame.
+\newblock {A Switching Lemma Primer}.
+\newblock April 1994.
+
+\bibitem{hastad}
+Johan Håstad.
+\newblock Almost optimal lower bounds for small depth circuits.
+\newblock In {\em RANDOMNESS AND COMPUTATION}, pages 6--20. JAI Press, 1989.
+
+\bibitem{Razborov}
+Alexander~A. Razborov.
+\newblock Bounded arithmetic and lower bounds in boolean complexity.
+\newblock In {\em Feasible Mathematics II}, pages 344--386. Birkhauser, 1993.
+
+\end{thebibliography}

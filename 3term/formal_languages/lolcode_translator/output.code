@@ -1,0 +1,61 @@
+let _temp0 10
+mov _temp0 x
+mov x _temp1
+let _temp2 5
+let _temp3 6
+mul _temp2 _temp3 _temp4
+add _temp1 _temp4 _temp5
+mov _temp5 IT
+let _temp6 12
+mov _temp6 VAR
+let _temp7 12
+mov _temp7 VAR
+let _temp8 12
+mov _temp8 VAR
+let _temp9 90
+mov _temp9 BOB
+mov BOB _temp10
+mov _temp10 FISH
+let _temp11 21
+mov _temp11 QQ
+let _temp12 5
+let _temp13 6
+mov QQ _temp14
+add _temp13 _temp14 _temp15
+cmp _temp12 _temp15 26 28 28
+mov _temp15 _temp16
+jmp 29
+mov _temp12 _temp16
+mov _temp16 IT
+let _temp18 0
+cmp IT _temp18 32 34 32
+mov IT _temp17
+out _temp17
+let _temp21 0
+cmp IT _temp21 36 39 36
+let _temp19 0
+out _temp19
+jmp 41
+let _temp20 2
+out _temp20
+let _temp22 5
+let _temp23 6
+cmp _temp22 _temp23 44 46 44
+let _temp24 0
+jmp 47
+let _temp24 1
+mov _temp24 IT
+let _temp27 0
+cmp IT _temp27 50 53 50
+let _temp25 1
+out _temp25
+jmp 55
+let _temp26 3
+out _temp26
+let _temp28 5
+let _temp30 0
+cmp _temp28 _temp30 58 60 58
+let _temp29 0
+jmp 61
+let _temp29 1
+mov _temp29 IT

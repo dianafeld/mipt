@@ -1,0 +1,5 @@
+USE CONTR
+GO
+
+SELECT *
+FROM Остатки
